@@ -1,11 +1,13 @@
     "use client"
+
     import Image from "next/image";
     import AboutImg1 from "@/public/About-1.jpg";
     import AboutImg2 from "@/public/About-2.jpg";
     import AboutImg3 from "@/public/About-3.jpg";
-    import { useState, useEffect } from "react"
 
     import CountUp from "react-countup"
+
+    
     const statsData = [
         {
             value: 2013,

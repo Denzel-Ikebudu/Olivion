@@ -6,6 +6,7 @@ import Expertise from "./Expertise/page"
 import PricingPlans from "./PricingPlans/page"
 import Testimonial from "./Testimonial/page"
 import Footer from "@/app/components/Footer/Footer"
+
 export default function Index() {
   return (
     <>
