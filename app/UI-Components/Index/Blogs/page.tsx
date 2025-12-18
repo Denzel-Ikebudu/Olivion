@@ -1,7 +1,7 @@
 export default function page() {
   return (
-    <div>
-        coming soon
+    <div className="pt-30">
+        <h1>coming soon</h1>
     </div>
   )
 }
