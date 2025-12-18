@@ -10,7 +10,7 @@
     
     const statsData = [
         {
-            value: 2013,
+            value: 37,
             suffix: "",
             title: "Year experience",
             desc: "Improving homes with expert craftmanship for year"
@@ -78,8 +78,8 @@
                             <p className="text-gray-400 GolosText">{item.desc}</p>
                         </div>
                     </div>
-                ))};
+                ))}
             </div>
         </>
-    );
+    )
     }
